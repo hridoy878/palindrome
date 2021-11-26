@@ -1,3 +1,5 @@
+//palindrome
+
 #include <stdio.h>
 int main() {
   int n, reversed = 0, remainder, original;
